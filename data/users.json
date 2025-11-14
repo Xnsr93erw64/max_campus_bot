@@ -1,0 +1,16 @@
+{
+  "74000255": {
+    "user_id": 74000255,
+    "university": "МГУ",
+    "group": "С23-712",
+    "role": "первокурсник",
+    "calendar_url": null,
+    "tags": [
+      "математика",
+      "английский",
+      "лизинг"
+    ],
+    "onboarding_completed": true,
+    "created_at": "2025-11-12T23:00:20.322881"
+  }
+}

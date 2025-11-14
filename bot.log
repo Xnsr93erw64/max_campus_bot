@@ -1,0 +1,43 @@
+2025-11-12 22:50:19,348 - max_focus_campus - INFO - Запуск MAX Focus Campus...
+2025-11-12 22:50:19,348 - max_focus_campus.reminder - INFO - Reminder service started
+2025-11-12 22:50:19,351 - max_focus_campus.reminder - ERROR - Error checking deadlines: cannot import name 'user_storage' from 'database.storage' (/Users/vladimirgluhenko/Desktop/max_focus_campus/database/storage.py)
+2025-11-12 22:50:19,450 - aiomax.bot - INFO - Started polling with bot @t606_hakaton_bot (98544100) - Хакатон 606
+2025-11-12 22:51:19,351 - max_focus_campus.reminder - ERROR - Error checking deadlines: cannot import name 'user_storage' from 'database.storage' (/Users/vladimirgluhenko/Desktop/max_focus_campus/database/storage.py)
+2025-11-12 22:52:19,352 - max_focus_campus.reminder - ERROR - Error checking deadlines: cannot import name 'user_storage' from 'database.storage' (/Users/vladimirgluhenko/Desktop/max_focus_campus/database/storage.py)
+2025-11-12 22:53:19,354 - max_focus_campus.reminder - ERROR - Error checking deadlines: cannot import name 'user_storage' from 'database.storage' (/Users/vladimirgluhenko/Desktop/max_focus_campus/database/storage.py)
+2025-11-12 22:54:19,355 - max_focus_campus.reminder - ERROR - Error checking deadlines: cannot import name 'user_storage' from 'database.storage' (/Users/vladimirgluhenko/Desktop/max_focus_campus/database/storage.py)
+2025-11-12 22:55:19,356 - max_focus_campus.reminder - ERROR - Error checking deadlines: cannot import name 'user_storage' from 'database.storage' (/Users/vladimirgluhenko/Desktop/max_focus_campus/database/storage.py)
+2025-11-12 22:56:19,356 - max_focus_campus.reminder - ERROR - Error checking deadlines: cannot import name 'user_storage' from 'database.storage' (/Users/vladimirgluhenko/Desktop/max_focus_campus/database/storage.py)
+2025-11-12 22:57:19,355 - max_focus_campus.reminder - ERROR - Error checking deadlines: cannot import name 'user_storage' from 'database.storage' (/Users/vladimirgluhenko/Desktop/max_focus_campus/database/storage.py)
+2025-11-12 22:58:19,355 - max_focus_campus.reminder - ERROR - Error checking deadlines: cannot import name 'user_storage' from 'database.storage' (/Users/vladimirgluhenko/Desktop/max_focus_campus/database/storage.py)
+2025-11-12 22:59:19,356 - max_focus_campus.reminder - ERROR - Error checking deadlines: cannot import name 'user_storage' from 'database.storage' (/Users/vladimirgluhenko/Desktop/max_focus_campus/database/storage.py)
+2025-11-12 23:00:19,356 - max_focus_campus.reminder - ERROR - Error checking deadlines: cannot import name 'user_storage' from 'database.storage' (/Users/vladimirgluhenko/Desktop/max_focus_campus/database/storage.py)
+2025-11-12 23:01:19,355 - max_focus_campus.reminder - ERROR - Error checking deadlines: cannot import name 'user_storage' from 'database.storage' (/Users/vladimirgluhenko/Desktop/max_focus_campus/database/storage.py)
+2025-11-12 23:02:19,355 - max_focus_campus.reminder - ERROR - Error checking deadlines: cannot import name 'user_storage' from 'database.storage' (/Users/vladimirgluhenko/Desktop/max_focus_campus/database/storage.py)
+2025-11-12 23:03:19,355 - max_focus_campus.reminder - ERROR - Error checking deadlines: cannot import name 'user_storage' from 'database.storage' (/Users/vladimirgluhenko/Desktop/max_focus_campus/database/storage.py)
+2025-11-12 23:04:19,355 - max_focus_campus.reminder - ERROR - Error checking deadlines: cannot import name 'user_storage' from 'database.storage' (/Users/vladimirgluhenko/Desktop/max_focus_campus/database/storage.py)
+2025-11-12 23:05:19,355 - max_focus_campus.reminder - ERROR - Error checking deadlines: cannot import name 'user_storage' from 'database.storage' (/Users/vladimirgluhenko/Desktop/max_focus_campus/database/storage.py)
+2025-11-12 23:06:19,358 - max_focus_campus.reminder - ERROR - Error checking deadlines: cannot import name 'user_storage' from 'database.storage' (/Users/vladimirgluhenko/Desktop/max_focus_campus/database/storage.py)
+2025-11-12 23:07:19,361 - max_focus_campus.reminder - ERROR - Error checking deadlines: cannot import name 'user_storage' from 'database.storage' (/Users/vladimirgluhenko/Desktop/max_focus_campus/database/storage.py)
+2025-11-12 23:08:19,360 - max_focus_campus.reminder - ERROR - Error checking deadlines: cannot import name 'user_storage' from 'database.storage' (/Users/vladimirgluhenko/Desktop/max_focus_campus/database/storage.py)
+2025-11-12 23:08:39,505 - max_focus_campus - INFO - Получен сигнал SIGINT...
+2025-11-12 23:08:39,506 - max_focus_campus.reminder - INFO - Reminder service stopped
+2025-11-12 23:08:39,506 - max_focus_campus - INFO - MAX Focus Campus остановлен
+2025-11-12 23:08:39,510 - max_focus_campus.reminder - INFO - Reminder service stopped
+2025-11-12 23:08:39,510 - max_focus_campus - INFO - MAX Focus Campus остановлен
+2025-11-15 01:50:48,173 - max_focus_campus - INFO - Запуск MAX Focus Campus...
+2025-11-15 01:50:48,173 - max_focus_campus.reminder - INFO - Reminder service started
+2025-11-15 01:50:48,259 - aiomax.bot - INFO - Started polling with bot @t606_hakaton_bot (98544100) - Хакатон 606
+2025-11-15 01:51:13,079 - max_focus_campus - INFO - Получен сигнал SIGINT...
+2025-11-15 01:51:13,080 - max_focus_campus.reminder - INFO - Reminder service stopped
+2025-11-15 01:51:13,080 - max_focus_campus - INFO - MAX Focus Campus остановлен
+2025-11-15 01:51:13,081 - max_focus_campus.reminder - INFO - Reminder service stopped
+2025-11-15 01:51:13,081 - max_focus_campus - INFO - MAX Focus Campus остановлен
+2025-11-15 01:51:14,534 - max_focus_campus - INFO - Запуск MAX Focus Campus...
+2025-11-15 01:51:14,534 - max_focus_campus.reminder - INFO - Reminder service started
+2025-11-15 01:51:14,573 - aiomax.bot - INFO - Started polling with bot @t606_hakaton_bot (98544100) - Хакатон 606
+2025-11-15 01:51:27,782 - max_focus_campus - INFO - Получен сигнал SIGINT...
+2025-11-15 01:51:27,783 - max_focus_campus.reminder - INFO - Reminder service stopped
+2025-11-15 01:51:27,783 - max_focus_campus - INFO - MAX Focus Campus остановлен
+2025-11-15 01:51:27,784 - max_focus_campus.reminder - INFO - Reminder service stopped
+2025-11-15 01:51:27,784 - max_focus_campus - INFO - MAX Focus Campus остановлен
